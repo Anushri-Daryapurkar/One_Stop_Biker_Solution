@@ -1,0 +1,46 @@
+body {
+    /* background-image: url("image/registration.jpg"); */
+    background-size: cover;
+  }
+  
+  .center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .contact-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .address,
+  .phone,
+  .email {
+    display: flex;
+    align-items: center;
+  }
+  
+  .info-text {
+    margin-left: 10px;
+  }
+  
+  
+  
+  .contact-form {
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .nav{
+    background-color: blue;
+  }
+  
+  
